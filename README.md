@@ -1,8 +1,8 @@
 - 👋 Hi!
 
-- 👀 I’m a student at IIT Delhi pursuing a major in Mathematics and Computing. I'm interested in Java development, Machine Learning, and NLP
-- 🌱 I’m currently doing a project in NLP where I need to find idioms in a sentence.
-- 💞️ I’m looking to collaborate on web and app development projects.
+- 👀 I’m a student at IIT Delhi pursuing a major in Mathematics and Computing. I'm interested in Java development, Solidity, BlockChain, Machine Learning, and NLP
+- 🌱 I’m currently woring as a Technical Intern at The Indian Art Revolution(TIAR)
+- 💞️ I’m looking to collaborate on blockchain development projects.
 
 
 - 📫 Contact me @akashsinha2503@gmail.com
